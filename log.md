@@ -17,7 +17,7 @@
 
 
 ### Day 2: 5/1/2017, Monday
-### BootStrap and thy Grid
+### BootStrap and thy Grids
 
 **Today's Progress**
  - Continued studying Bootstrap 4
@@ -42,3 +42,24 @@
 
 **Link to work:**
 1. None as of now.
+
+### Day 3: 5/2/2017, Tuesday
+### Documentation
+
+**Today's Progress**
+ - Finished NetNinja's tutorials
+ - Was able to have a greater understanding of the bootstrap framework
+ - Working on the actual Portfolio Page starting with the navigation
+ - Created a repo for my Portfolio Page Project in Github
+
+**Thoughts:**
+So far so good, I'm liking the whole documentation that's been going on with this challenge.
+I'm slowly seeing effects and picking things up faster.
+Makes me really inspired to be a programmer.
+
+**Notes:**
+  Following the Game Plan to finish the site by Friday.
+  Taking things from top to bottom with the bootstrap documentation by my side.
+  
+**Link to work:**
+1. https://github.com/MigzRuiz/Portfolio-Page
