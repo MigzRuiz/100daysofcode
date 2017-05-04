@@ -60,6 +60,23 @@ Makes me really inspired to be a programmer.
 **Notes:**
   Following the Game Plan to finish the site by Friday.
   Taking things from top to bottom with the bootstrap documentation by my side.
-  
+
+**Link to work:**
+1. https://github.com/MigzRuiz/Portfolio-Page
+
+### Day 4: 5/3/2017, Wednesday
+### Starting PPP
+
+**Today's Progress**
+ - Started Portfolio Page
+ - Conceptualized the actual portfolio page
+
+**Thoughts:**
+Today sucked. I feel lost. I don't know how to proceed with the portfolio site.
+I hope to get my shit together tomorrow.
+
+**Notes:**
+  No notes tonight
+
 **Link to work:**
 1. https://github.com/MigzRuiz/Portfolio-Page
